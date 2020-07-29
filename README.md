@@ -1,2 +1,1 @@
-# Data-Structures-in-Python
-Implementation of Data Structures with Python
+# Implementation of Data Structures in Python :snake:
